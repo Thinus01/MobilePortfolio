@@ -577,17 +577,18 @@ ul {
   position: absolute;
   width: 375px;
   height: 1125.15px;
-  top: 3506px;
+  top: 2330px;
   margin-left: 5%;
   margin-right: 10%;
 }
 
 .contact_me_bg {
+  background-size: cover;
   position: absolute;
   background-image: url("images/Contactme.svg");
-  width: 375px;
+  width: 450px;
   height: 780px;
-  left: -87px;
+  left: -114px;
   top: 10px;
   transform: translateX(25%);
 }
@@ -597,15 +598,15 @@ ul {
   width: 375px;
   height: 741px;
   left: 0.1px;
-  top: 4600px;
+  top: 3350px;
 }
 
 .shapes {
   position: absolute;
   background-image: url("images/contactformshapes_mobile.svg");
-  width: 265px;
+  width: 223px;
   height: 709.17px;
-  left: 153px;
+  left: 190px;
 }
 
 #contact_me_text {
@@ -645,7 +646,7 @@ ul {
 .username {
   font-family: Poppins, sans-serif;
   box-sizing: border-box;
-  border: 1px solid #EBEBFF;
+  border: 1px solid #ebebff;
   border-radius: 8px;
   width: 327px;
   height: 57px;
