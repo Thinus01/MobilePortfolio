@@ -53,7 +53,7 @@ header {
   padding: 0 24px;
 }
 
-#headline>a {
+#headline > a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -383,7 +383,7 @@ header {
   color: #172b4d;
 }
 
-#about_myself>a {
+#about_myself > a {
   display: flex;
   flex-wrap: wrap;
   font-style: normal;
